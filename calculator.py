@@ -7,3 +7,5 @@ def subtract(x, y):
 	return x-y
 def devise(x,y):
 	return x//y
+def root (x,y):
+	return x^2
