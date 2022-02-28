@@ -9,3 +9,4 @@ def devise(x,y):
 	return x//y
 def root (x,y):
 	return x^2
+x,y = map(int,input().split())
