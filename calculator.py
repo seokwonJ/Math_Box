@@ -9,5 +9,8 @@ def devise(x,y):
 	return x//y
 def root (x,y):
 	return x^2
+def squared(x):
+	return x**2
 print("계산을 입력하시오: ",end = " ")
 a = list(map(int,input().split()))
+
