@@ -18,3 +18,7 @@ if a[1] == "+":
 	print(add(n1,n2))
 if a[1] == "-":
 	print(subtract(n1,n2)
+if a[1] == "*":
+	print(multiplicate(x,y))
+
+
