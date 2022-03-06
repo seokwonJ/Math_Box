@@ -15,5 +15,6 @@ print("계산을 입력하시오: ",end = " ")
 a = list(map(str,input().split()))
 n1, n2 = int(a[0]),int(a[2])
 if a[1] == "+":
-	print(add[n1,n2])
-
+	print(add(n1,n2))
+if a[1] == "-":
+	print(subtract(n1,n2)
