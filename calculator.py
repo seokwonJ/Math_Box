@@ -20,5 +20,7 @@ if a[1] == "-":
 	print(subtract(n1,n2)
 if a[1] == "*":
 	print(multiplicate(x,y))
+if a[1] == "/":
+	print(devise(x,y))
 
 
