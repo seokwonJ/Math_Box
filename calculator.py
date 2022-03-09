@@ -24,5 +24,6 @@ if a[1] == "/":
 	print(devise(x,y))
 if a[1] == "^":
 	print(root(x,y))
-
+if a[1] == "**":
+	print(squared(x,y))
 
