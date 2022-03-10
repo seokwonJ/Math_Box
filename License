@@ -6,3 +6,4 @@ git commit -m "Add title comment and Create meeting-log"
 git branch -m master main 
 git push -u origin main 
 git remote set-head origin main
+so sick
