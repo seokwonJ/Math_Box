@@ -19,11 +19,11 @@ if a[1] == "+":
 if a[1] == "-":
 	print(subtract(n1,n2)
 if a[1] == "*":
-	print(multiplicate(x,y))
+	print(multiplicate(n1,n2))
 if a[1] == "/":
-	print(devise(x,y))
+	print(devise(n1,n2))
 if a[1] == "^":
-	print(root(x,y))
+	print(root(n1,n2))
 if a[1] == "**":
-	print(squared(x,y))
+	print(squared(n1,n2))
 
